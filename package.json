@@ -1,0 +1,16 @@
+{
+  "name": "chatsharebackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chatsharebackend": "file:",
+    "ws": "^8.18.0"
+  }
+}
